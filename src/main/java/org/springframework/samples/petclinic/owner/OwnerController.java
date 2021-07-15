@@ -49,7 +49,7 @@ class OwnerController {
 		this.owners = clinicService;
 		this.visits = visits;
 	}
-
+	//domanda
 	@InitBinder
 	public void setAllowedFields(WebDataBinder dataBinder) {
 		dataBinder.setDisallowedFields("id");

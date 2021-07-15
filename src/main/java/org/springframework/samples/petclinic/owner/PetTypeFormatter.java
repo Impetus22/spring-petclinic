@@ -33,6 +33,7 @@ import org.springframework.stereotype.Component;
  * @author Juergen Hoeller
  * @author Michael Isvy
  */
+//domanda2
 @Component
 public class PetTypeFormatter implements Formatter<PetType> {
 
